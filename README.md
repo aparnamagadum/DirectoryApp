@@ -12,7 +12,7 @@ A simple frontend application built with React.js for managing directories, with
 - **State Management**: LocalStorage
 - **Styling**: CSS
 
-## Hosted Link : https://appdirectory.onrender.com/
+#### Hosted Link : https://appdirectory.onrender.com/
 
 1. Clone the repository:
    ```bash
